@@ -44,6 +44,25 @@ An email from `projectmanagement@pm.me` targeting `Austin@letsdefend.io` contain
 
 ---
 
+
+## 📸 Screenshots
+
+| Screenshot | Description |
+|:-----------|:------------|
+| ![Results](/Results.png) | Investigation results overview |
+| ![Artifacts](/artifacts.png) | Forensic artifacts collected |
+| ![Command Execution](/cmd-run.png) | Command run details (cmd.exe / regsvr32 attack) |
+| ![Log Management](/log-management.png) | Logs management and SIEM view |
+| ![Raw Logs](/raw-log.png) | Raw event log showcasing payload |
+| ![Threat Intelligence](/threat-intel.png) | Threat intel results about IP/domain |
+| ![URLhaus Scan](/urlhaus.png) | Malicious URL investigation via URLhaus |
+| ![VirusTotal Scan 1](/virustot1.png) | VirusTotal file scan result |
+| ![VirusTotal Scan 2](/virustot2.png) | VirusTotal URL analysis result |
+
+---
+
+
+
 ## 📊 Analysis and Actions Taken
 
 - **Detection**: Malicious RTF identified via pattern matching of CVE-2025-21298.
@@ -61,6 +80,17 @@ An email from `projectmanagement@pm.me` targeting `Austin@letsdefend.io` contain
 - Even **legitimate system binaries** like `regsvr32.exe` can be weaponized by threat actors.
 
 ---
+
+## 🔥 Outcome
+
+This exercise reinforced skills in:
+- SIEM Log Analysis
+- Threat Hunting
+- Threat Intelligence Gathering
+- Incident Response Documentation
+
+---
+
 
 ## 📂 Project Structure
 
