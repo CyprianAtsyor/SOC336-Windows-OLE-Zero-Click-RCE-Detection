@@ -97,10 +97,13 @@ This exercise reinforced skills in:
 ```bash
 SOC336-Windows-OLE-Zero-Click-RCE/
 ├── README.md
-├── email_alert.png
-├── attachment_hash.png
-├── command_execution.png
-│   ├── virus_total_analysis.png
-│   ├── abuseipdb_lookup.png
-│   ├── urlhaus_submission.png
-│   └── soc_alert_details.png
+├── Results.png
+├── artifacts.png
+├── cmd-run.png
+├── log-management.png
+├── raw-log.png
+├── threat-intel.png
+├── urlhaus.png
+├── virustot1.png
+└── virustot2.png
+```
